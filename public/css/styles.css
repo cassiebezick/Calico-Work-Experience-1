@@ -746,6 +746,7 @@ img {
   padding-top: 24px;
 }
 
+
 @media (max-width: 768px) {
   h1 {
     font-size: 40px;
@@ -786,6 +787,10 @@ img {
 @media (max-width: 480px) {
   h1 {
     font-size: 34px;
+  }
+
+  .hero-inner {
+    flex-direction: column-reverse;
   }
 
   .card-grid {
