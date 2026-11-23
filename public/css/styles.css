@@ -894,8 +894,7 @@ img {
 
   }
 
-
-  .card-grid {
+  .playbook-grid {
     grid-template-columns: 1fr;
   }
 
